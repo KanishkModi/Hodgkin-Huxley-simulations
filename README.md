@@ -1,0 +1,1 @@
+Repository contains codes for simulation of Hodgkin-Huxley model of ion-channel dynamics. This was done as a course project of Non-Linear Dynamics (PH 567) in a team of 3. To run the code, put the 3 files in a folder and run testing.py.
